@@ -1,4 +1,4 @@
-# Military Aircraft Detection Using YOLOv10
+# Automated Classification of Military Aircraft Using Deep Learning
 
 This project focuses on the automated classification of 73 types of military aircraft using deep learning, specifically the YOLOv10 object detection model.
 
