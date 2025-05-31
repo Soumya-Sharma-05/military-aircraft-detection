@@ -3,8 +3,8 @@
 This project focuses on the automated classification of 73 types of military aircraft using deep learning, specifically the YOLOv10 object detection model.
 
 ## 📁 Files Included
-- `notebook00be4a0fc3.ipynb` – Full Jupyter notebook with data processing, training, and inference.
-- `pbl_report.pdf` – Final project report documenting methodology, results, and future work.
+- `Military_Aircraft_Detection_code` – Full Jupyter notebook with data processing, training, and inference.
+- `Military_Aircraft_Detection_report.pdf` – Final project report documenting methodology, results, and future work.
 
 ## 📌 Technologies Used
 - Python (pandas, numpy, OpenCV, matplotlib, etc.)
@@ -18,4 +18,4 @@ This project focuses on the automated classification of 73 types of military air
 - Inference speed: **~3.8ms per image**
 
 ## 📄 Report
-Refer to `pbl_report.pdf` for full documentation of project design, evaluation metrics, and future scope.
+Refer to `Military_Aircraft_Detection_report.pdf` for full documentation of project design, evaluation metrics, and future scope.
